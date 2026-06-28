@@ -1,0 +1,2 @@
+Escrevendo no arquivo teste.txt
+Escrevendo mais uma linha no arquivo teste.txt
